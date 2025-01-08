@@ -1,20 +1,20 @@
 
-<!--Section 1: Introduce your self-->
+<!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Onyebuchi Princewill 🤓, a data analyst, educator, and consultant passionate about turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As TechBinah Academy's Chief Analyst, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and grow your business. 
 
 **- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making from beginner to advanced levels. 
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -54,11 +54,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:princewillonyebuchi22@gmail.com">princewillonyebuchi22@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 703-721-4108</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -70,7 +70,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/princewillonyebuchi/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
